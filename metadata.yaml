@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36388
     wikipedia: http://en.wikipedia.org/wiki/Walter_Terence_Stace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33411#A-Critical-History-of-Greek-Philosophy
 gutenberg_issued: '2010-08-12'
 gutenberg_type: Text
 identifiers:
